@@ -1,2 +1,2 @@
 # JimRyan.github.io
-DAta Science Project Portfolio
+Data Science Project Portfolio

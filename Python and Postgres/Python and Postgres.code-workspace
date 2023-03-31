@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../prog_diary_app"
+		}
+	],
+	"settings": {
+		"activestate.promptRuntimeCreation": false
+	}
+}
